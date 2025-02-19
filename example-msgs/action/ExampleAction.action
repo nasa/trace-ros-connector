@@ -1,0 +1,8 @@
+#goal definition
+int32 server_input
+---
+#result definition
+int32 server_output
+---
+#feedback definition
+int32[] server_progress
